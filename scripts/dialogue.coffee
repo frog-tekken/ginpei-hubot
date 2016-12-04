@@ -2,6 +2,8 @@
 # ```
 # $ HUBOT_DOCOMO_DIALOGUE_API_KEY=01234abcdx bin/hubot
 # ```
+#
+# API detail: https://dev.smt.docomo.ne.jp/?p=docs.api.page&api_name=dialogue&p_name=api_usage_scenario
 
 module.exports = (robot) ->
   context = null
